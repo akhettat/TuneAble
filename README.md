@@ -19,7 +19,33 @@
 1. ✅ Develop a fully functional prototype using an **ESP32** microcontroller.
 2. ✅ Design an **accessible user interface** with audio and haptic feedback.
 3. ✅ Implement robust **signal processing** (FFT/Autocorrelation) for accurate pitch detection.
-4. ✅ Ensure flawless operation in noisy environments using a **piezoelec
+4. ✅ Ensure flawless operation in noisy environments using a **piezoelectric sensor**.
+5. 🔜 Design a **compact PCB** with integrated Li-Ion battery and charging circuit.
 
-## Patent protection
-TuneAble is an innovative solution for people with visual disability, it is protected by a patent and any similar idea shall not be deployed for commercial usage. Only personal usage is allowed.
+---
+
+## ⚙️ Used Technologies 
+- **Hardware:** ESP32, MEMS microphone, piezoelectric clip, vibration motor, piezo speaker, Li-Ion battery.
+- **Software:** C/C++ using **ESP-IDF** or **Arduino framework**.
+- **Libraries:** FFT/Autocorrelation, TTS (Text-to-Speech), Bluetooth/BLE.
+- **Prototyping:** Breadboard for early development, followed by custom PCB design.
+
+---
+
+## 📋 Deliverables
+- ✅ Fully functional **TuneAble Go** prototype.
+- ✅ Well-documented and version-controlled **source code**.
+- ✅ **Technical documentation** covering system architecture, signal processing methods, and user manual.
+- ✅ **PCB design** for a compact version with integrated battery.
+
+---
+
+## Patent protected
+
+This product is based on an innovative idea that is protected by a patent submitted by Amine Khettat.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! 🎉
