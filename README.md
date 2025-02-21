@@ -40,7 +40,18 @@
 
 ---
 
-## Patent protected
+## 📄 License
+
+This project is licensed under the **TuneAble Go Non-Commercial License**.
+
+- 🔒 **Non-commercial use only:** You may use, modify, and share this project **for personal, educational, or research purposes** only.
+- 🚫 **Commercial use is strictly prohibited** without explicit written permission.
+
+See the full [LICENSE](./LICENSE) for details.
+
+---
+
+## 🚫 Patent protected
 
 This product is based on an innovative idea that is protected by a patent submitted by Amine Khettat.
 
